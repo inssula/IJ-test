@@ -5,5 +5,3 @@ for i in range(20):
 
 print('Hello IJ')
 print('1')
-print('2')
-print('3')
